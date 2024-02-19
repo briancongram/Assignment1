@@ -1,2 +1,5 @@
 # Assignment1
-WebMap with Sketch and Home Widget
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/briancongram/pen/zYbbrqZ](https://codepen.io/briancongram/pen/zYbbrqZ).
+
+HTML code to open WebMap
